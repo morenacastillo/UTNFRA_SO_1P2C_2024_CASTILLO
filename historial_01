@@ -1,0 +1,193 @@
+ll
+mkdir repogit
+ll
+cd repogit/
+ll
+cd ..
+cd foo/
+ll
+cat Readme.md 
+cd..
+cd ..
+ll
+cd repogit/
+git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+ll
+git clone git@github.com:morenacastillo/UTNFRA_SO_1P2C_2024_CASTILLO.git
+ll
+ssh-keygen
+ll
+ls -l
+ls -la
+cd ..
+ll
+cd .ssh/
+ll
+ssh-keygen -t ed25519
+ll
+rm -r id_rsa
+rm -r id_rsa.pub 
+ll
+rm -r known_hosts 
+ll
+cat id_ed25519.pub 
+cd ..
+tar -cvzf ss_backup.tgz .ssh/
+ll
+cd repogit/
+git clone git@github.com:morenacastillo/UTNFRA_SO_1P2C_2024_CASTILLO.git
+ll
+cd UTNFRA_SO_1P2C_2024_CASTILLO/
+LL
+ll
+history
+cd ..
+rm -r UTNFRA_SO_1P2C_2024_CASTILLO/
+ll
+git clone git@github.com:morenacastillo/UTNFRA_SO_1P2C_2024_CASTILLO.git
+ll
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+source  ~/.bashrc  && history -a
+ll
+cd UTNFRA_SO_1P2C_2024_CASTILLO/
+ll
+tree
+sudo apt update
+cd ..
+sudo install tree
+sudo apt install tree
+tree UTNFRA_SO_1P2C_2024_CASTILLO/
+git
+git status
+cd UTNFRA_SO_1P2C_2024_CASTILLO/
+git status
+git add RTA_SCRIPT_Examen_20241011/
+git commit -m "ADD: scripts base"
+git config --global user.email "moracastillo7@gmail.com"
+git config --global user.name "morenacastillo"
+git commit -m "ADD: scripts base"
+git push
+ll
+cd RTA_S
+cd RTA_SCRIPT_Examen_20241011/
+ll
+vim Punto_A.sh 
+cd ..
+chmod 755 RTA_SCRIPT_Examen_20241011/*
+ll
+ll RTA_SCRIPT_Examen_20241011/
+cd RTA_SCRIPT_Examen_20241011
+./Punto_A.sh 
+tree Punto_A.sh 
+cd ..
+cd RTA_SCRIPT_Examen_20241011/
+vim Punto_A.sh 
+ll
+tree Punto_A.sh 
+vim Punto_
+vim Punto_A.sh 
+./Punto_A.sh 
+tree Punto_A.sh 
+cat Punto_A.sh 
+./Punto_A.sh
+cd ..
+./Punto_A.sh
+cd RTA_SCRIPT_Examen_20241011/
+ls -l Punto_A.sh
+./Punto_A.sh
+./Punto_A.sh/
+./Punto_A.sh
+tree Punto_A.sh
+tree Punto_A
+ls -ld Punto_A
+ls -ld Punto_A.sh 
+cd ..
+ll
+cd RTA_SCRIPT_Examen_20241011/
+ll
+cd ..
+chmod -x RTA_SCRIPT_Examen_20241011/
+ll
+cd RTA_SCRIPT_Examen_20241011/
+ll
+chmod +x RTA_SCRIPT_Examen_20241011/
+cd RTA_SCRIPT_Examen_20241011/
+LL
+ll
+vim Punto_A.sh 
+tree Punto_A.sh
+vim Punto_A.sh 
+cd ..
+chmod 755 RTA_SCRIPT_Examen_20241011/
+ll
+cd RTA_SCRIPT_Examen_20241011/
+ll
+./Punto_A.sh 
+cat Punto_A.sh 
+tree Punto_A.sh
+tree /Punto_A.sh
+cd
+pwd
+ll
+cd repogit/
+ll
+UTN-FRA_SO_Examenes/
+cd UTN-FRA_SO_Examenes/
+ll
+cd ..
+cd UTNFRA_SO_1P2C_2024_CASTILLO/
+ll
+cd RTA_SCRIPT_Examen_20241011/
+chmod +x Punto_A.sh
+./Punto_A.sh 
+./Punto_A.sh
+tree
+tree Punto_A.sh 
+tree Punto_B.sh 
+vim Punto_A.sh 
+./Punto_A.sh
+tree Punto_A 
+tree Punto_A.sh 
+tree Punto_A.sh
+tree .
+tree ~/repogit/UTNFRA_SO_1P2C_2024_CASTILLO/RTA_SCRIPT_Examen_20241011
+cd
+ll
+cd repogit/
+tree UTNFRA_SO_1P2C_2024_CASTILLO/
+ll
+cd UTNFRA_SO_1P2C_2024_CASTILLO/
+ll
+cd RTA_SCRIPT_Examen_20241011/
+ll
+tree
+ls -l Punto
+ls -l Punto_A.sh 
+./Punto_A.sh
+sudo ./Punto_A.sh
+tree Punto_A.sh 
+ls -l /
+tree /Examenes-UTN
+vim Punto_A.sh 
+tree /Examenes-UTN/
+cd
+ll
+cd repogit/
+sudo rm -r /Examenes-UTN
+cd UTNFRA_SO_1P2C_2024_CASTILLO/
+ll
+cd RTA_SCRIPT_Examen_20241011/
+LL
+ll
+vim Punto_A.sh 
+./Punto_A.sh 
+tree /Examenes-UTN/
+git status
+git add Punto_A.sh 
+git commit -m "ADD: Punto A COMPLETO"
+git push
+ll
+vim Punto_B.sh 
+history
+cp --help
+cd ..
