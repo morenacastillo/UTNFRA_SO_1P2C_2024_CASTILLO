@@ -284,3 +284,92 @@
   284  cd ..
   285  history
   286  history > historial_01
+  287  cd ..
+  288  ll
+  289  cd UTNFRA_SO_1P2C_2024_CASTILLO/
+  290  ll
+  291  cat historial_01 
+  292  git status
+  293  git add historial_01 
+  294  git status
+  295  git commit -m "FEAT: Historial de Punto B"
+  296  git push
+  297  cd ..
+  298  logout
+  299  sudo fdisk /dev/sdd
+  300  cd repogit/
+  301  cd UTNFRA_SO_1P2C_2024_CASTILLO/
+  302  ll
+  303  cd RTA_s
+  304  cd RTA_S
+  305  cd RTA_SCRIPT_Examen_20241011/
+  306  vdim Punto_D.sh 
+  307  vim Punto_D.sh 
+  308  cd ..
+  309  cd RTA_ARCHIVOS_Examen_20241011/
+  310  ll
+  311  touch --help
+  312  touch Filtro_Basico.txt
+  313  ll
+  314  cat Filtro_Basico.txt 
+  315  history -a
+  316  cd ..
+  317  history -a
+  318  cat etc/cpuinfo
+  319  cat /proc/cpuinfo
+  320  cat /proc/cpuinfo | grep 'MemTotal'
+  321  cat /proc/cpuinfo | grep 'Mem'
+  322  cat /proc/cpuinfo
+  323  cat /proc/cpuinfo | grep 'model name'
+  324  ll
+  325  cd ..
+  326  ll
+  327  cd ..
+  328  ll
+  329  ls -la
+  330  cat /proc/meminfo
+  331  cat /proc/meminfo | grep 'MemTotal'
+  332  dmidecode
+  333  sudo dmidecode
+  334  cd repogit/
+  335  cd
+  336  ll
+  337  cd repogit/
+  338  cd UTNFRA_SO_1P2C_2024_CASTILLO/
+  339  ll
+  340  cd RTA_ARCHIVOS_Examen_20241011/
+  341  ll
+  342  rm -r Filtro_Basico.txt 
+  343  ll
+  344  cd ..
+  345  cd RTA_SCRIPT_Examen_20241011/
+  346  vim Punto_E.sh 
+  347  ./Punto_E.sh 
+  348  cd ..
+  349  cd RTA_ARCHIVOS_Examen_20241011/
+  350  ll
+  351  cat Filtro_Basico.txt 
+  352  rm -r Filtro_Basico.txt 
+  353  LL
+  354  ll
+  355  cd ..
+  356  cd RTA_SCRIPT_Examen_20241011/Punto_E
+  357  cd RTA_SCRIPT_Examen_20241011
+  358  LL
+  359  ll
+  360  vim Punto_E.sh 
+  361  ./Punto_E.sh 
+  362  cd
+  363  cd repogit/
+  364  cd UTF
+  365  ll
+  366  cd UTNFRA_SO_1P2C_2024_CASTILLO/
+  367  ll
+  368  cd RTA_ARCHIVOS_Examen_20241011/
+  369  ll
+  370  cat Filtro_Basico.txt 
+  371  cd ..
+  372  ll
+  373  gistory
+  374  history
+  375  history > historial_01
