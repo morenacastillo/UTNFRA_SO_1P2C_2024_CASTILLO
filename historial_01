@@ -373,3 +373,84 @@
   373  gistory
   374  history
   375  history > historial_01
+  376  cat historial_01 
+  377  git status
+  378  git add RTA_ARCHIVOS_Examen_20241011/
+  379  git commit -m "ADD: Archivo Filtro_Basico.txt (resultado punto E)"
+  380  git add RTA_SCRIPT_Examen_20241011/Punto_E
+  381  git commit -m "ADD: Punto E completo"
+  382  git status
+  383  git push
+  384  git add RTA_SCRIPT_Examen_20241011/Punto_E.sh 
+  385  git commit -m "ADD: Punto E completo"
+  386  git push
+  387  git add historial_01 
+  388  git commit "FEAT: Historial de Punto E"
+  389  git push
+  390  git commit -m "FEAT: Historial de Punto E"
+  391  git push
+  392  ll
+  393  clear
+  394  ll
+  395  cd RTA_SCRIPT_Examen_20241011/
+  396  vim Punto_F.sh 
+  397  vim Punto_B.sh 
+  398  vim Punto_F.sh 
+  399  curl -s ifconfig.me
+  400  vim Punto_F.sh 
+  401  curl -s ifconfig.me | head -13
+  402  curl -s ifconfig.me
+  403  cd ..
+  404  curl -s ifconfig.me
+  405  cd RTA_SCRIPT_Examen_20241011/
+  406  vim Punto_F.sh 
+  407  ./Punto_F.sh 
+  408  cd ..
+  409  cd RTA_ARCHIVOS_Examen_20241011/
+  410  ll
+  411  cat Filtro_Basico.txt 
+  412  rm -r Filtro_Basico.txt 
+  413  cd ..
+  414  cd RTA_SCRIPT_Examen_20241011/
+  415  ./Punto_E.sh 
+  416  cd ..
+  417  cd RTA_ARCHIVOS_Examen_20241011/
+  418  ll
+  419  cat Filtro_Basico.txt 
+  420  cd ..
+  421  cd RTA_SCRIPT_Examen_20241011/
+  422  vim Punto_F.sh 
+  423  ./Punto_F.sh 
+  424  cd ..
+  425  cd RTA_ARCHIVOS_Examen_20241011/
+  426  ll
+  427  cat Filtro_Avanzado.txt 
+  428  cd ..
+  429  cd RTA_SCRIPT_Examen_20241011/
+  430  vim Punto_F.sh 
+  431  ./Punto_F.sh 
+  432  cd ..
+  433  cd RTA_ARCHIVOS_Examen_20241011/
+  434  cat Filtro_Avanzado.txt 
+  435  rm -r Filtro_Avanzado.txt 
+  436  ll
+  437  cd ..
+  438  cd RTA_SCRIPT_Examen_20241011/
+  439  vim Punto_F.sh 
+  440  ./Punto_F.sh 
+  441  cd ..
+  442  cd RTA_ARCHIVOS_Examen_20241011/
+  443  cat Filtro_Avanzado.txt 
+  444  ll
+  445  git status
+  446  git add Filtro_Avanzado.txt 
+  447  git commit -m "ADD: Archivo Filtro_Avanzado.txt" (resultado punto F)
+  448  git commit -m "ADD: Archivo Filtro_Avanzado.txt (resultado punto F)"
+  449  git push
+  450  git add ../RTA_SCRIPT_Examen_20241011/Punto_F.sh 
+  451  git commit -m "ADD: Punto F completo"
+  452  git push
+  453  cd ..
+  454  ll
+  455  history
+  456  history > historial_01 
