@@ -454,3 +454,41 @@
   454  ll
   455  history
   456  history > historial_01 
+  457  git add historial_01 
+  458  git commit -m "FEAT: Historial de Punto F"
+  459  git push
+  460  CD RTA_SCRIPT_Examen_20241011/
+  461  cd RTA_SCRIPT_Examen_20241011/
+  462  ll
+  463  vim Punto_D.sh 
+  464  ./Punto_D.sh 
+  465  vim Punto_D.sh 
+  466  ./Punto_D.sh 
+  467  cd ..
+  468  ll
+  469  cd ..
+  470  ll
+  471  cd ..
+  472  ll
+  473  tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s'' -w 80 --column 4
+  474  rm -r Estructura_Asimetrica/
+  475  ll
+  476  cd repogit/UTNFRA_SO_1P2C_2024_CASTILLO/RTA_SCRIPT_Examen_20241011/
+  477  vim Punto_D.sh 
+  478  ./Punto_D.sh 
+  479  cd
+  480  ll
+  481  tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s'' -w 80 --column 4
+  482  cd repogit/
+  483  ll
+  484  git status
+  485  cd UTNFRA_SO_1P2C_2024_CASTILLO/
+  486  git status
+  487  git add RTA_SCRIPT_Examen_20241011/Punto_D.sh 
+  488  git commit -m "ADD: Punto D completo"
+  489  git push
+  490  cd ..
+  491  ll
+  492  cd UTNFRA_SO_1P2C_2024_CASTILLO/
+  493  ll
+  494  history > historial_01 
