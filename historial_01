@@ -492,3 +492,176 @@
   492  cd UTNFRA_SO_1P2C_2024_CASTILLO/
   493  ll
   494  history > historial_01 
+  495  git add historial_01 
+  496  git commit -m "FEAT: Historial de Punto D"
+  497  git push
+  498  cat /etc/fstab
+  499  ll
+  500  cd RTA_SCRIPT_Examen_20241011/
+  501  ll
+  502  vim Punto_C.sh 
+  503  cd ..
+  504  ll
+  505  cd RTA_ARCHIVOS_Examen_20241011/
+  506  touch Listado_PuntoC
+  507  vim Listado_PuntoC 
+  508  cat Listado_PuntoC 
+  509  LL
+  510  ll
+  511  cd ..
+  512  cd RTA_SCRIPT_Examen_20241011/
+  513  vim Punto_C.sh 
+  514  ll
+  515  cd repogit/
+  516  ll
+  517  cd UTNFRA_SO_1P2C_2024_CASTILLO/
+  518  ll
+  519  cd RTA_SCRIPT_Examen_20241011/
+  520  ll
+  521  cd ..
+  522  ll
+  523  cd
+  524  ./repogit/UTNFRA_SO_1P2C_2024_CASTILLO/RTA_SCRIPT_Examen_20241011/Punto_C.sh repogit/UTNFRA_SO_1P2C_2024_CASTILLO/RTA_ARCHIVOS_Examen_20241011/Listado_PuntoC vagrant
+  525  id p1c2_2024_gAlumno
+  526  cat /etc/passwd
+  527  cat /etc/group
+  528  sudo groupdel p1c2_2024_gAlumno:
+  529  sudo groupdel p1c2_2024_gAlumno
+  530  cat /etc/group
+  531  sudo userdel p1c2_2024_A1
+  532  sudo userdel p1c2_2024_A2
+  533  sudo userdel p1c2_2024_A3
+  534  sudo userdel p1c2_2024_P1
+  535  cat /etc/group
+  536  sudo groupdel p1c2_2024_gProfesores
+  537  cat /etc/group
+  538  cat /etc/passwd
+  539  cd repogit/
+  540  cd UTNFRA_SO_1P2C_2024_CASTILLO/
+  541  cd RTA_SCRIPT_Examen_20241011/
+  542  ll
+  543  vim Punto_C.sh 
+  544  cd
+  545  ./repogit/UTNFRA_SO_1P2C_2024_CASTILLO/RTA_SCRIPT_Examen_20241011/Punto_C.sh repogit/UTNFRA_SO_1P2C_2024_CASTILLO/RTA_ARCHIVOS_Examen_20241011/Listado_PuntoC vagrant
+  546  cat /etc/group
+  547  cat /etc/user
+  548  cat /etc/passwd
+  549  sudo userdel p1c2_2024_P1
+  550  cat /etc/group
+  551  sudo userdel p1c2_2024_P1
+  552  sudo groupdel p1c2_2024_P1
+  553  sudo groupdel p1c2_2024_P2
+  554  sudo groupdel p1c2_2024_A1
+  555  sudo groupdel p1c2_2024_A2
+  556  sudo groupdel p1c2_2024_A3
+  557  cat /etc/group
+  558  sudo user p1c2_2024_gAlumno 
+  559  sudo userdel p1c2_2024_gAlumno 
+  560  sudo userdel p1c2_2024_gProfesores
+  561  cat /etc/group
+  562  cat /etc/passwd
+  563  cd repogit/UTNFRA_SO_1P2C_2024_CASTILLO/RTA_SCRIPT_Examen_20241011/
+  564  vim Punto_C.sh 
+  565  cd
+  566  ./repogit/UTNFRA_SO_1P2C_2024_CASTILLO/RTA_SCRIPT_Examen_20241011/Punto_C.sh repogit/UTNFRA_SO_1P2C_2024_CASTILLO/RTA_ARCHIVOS_Examen_20241011/Listado_PuntoC vagrant
+  567  cat /etc/passwd
+  568  cat /etc/group
+  569  cat /etc/passwd
+  570  id p1c2_2024_A1
+  571  id p1c2_2024_gAlumno
+  572  cd /Examenes-UTN/
+  573  ll
+  574  tree alumno_1/
+  575  cat etc/gruop
+  576  cat etc/group
+  577  cat /etc/group
+  578  sudo groupdel p1c2_2024_gAlumno 
+  579  sudo groupdel p1c2_2024_gProfesores 
+  580  cat /etc/group
+  581  cd
+  582  cd repogit/UTNFRA_SO_1P2C_2024_CASTILLO/
+  583  ll
+  584  cd RTA_ARCHIVOS_Examen_20241011/
+  585  cat Listado_PuntoC 
+  586  ll
+  587  cd ..
+  588  cd UTN_S
+  589  ll
+  590  cd RTA_
+  591  cd RTA_SCRIPT_Examen_20241011/
+  592  vim Punto_C.sh 
+  593  CD
+  594  cd
+  595  ./repogit/UTNFRA_SO_1P2C_2024_CASTILLO/RTA_SCRIPT_Examen_20241011/Punto_C.sh repogit/UTNFRA_SO_1P2C_2024_CASTILLO/RTA_ARCHIVOS_Examen_20241011/Listado_PuntoC vagrant
+  596  cat /etc/group
+  597  cat /etc/passwd
+  598  ls -l /Examenes-UTN/
+  599  ls -l /Examenes-UTN/alumno_1/
+  600  cut -d: -f1 /etc/passwd
+  601  cat /etc/passwd
+  602  cat /etc/group
+  603  getent group p1c2_2024_gAlumno
+  604  groups p1c2_2024_A1
+  605  sudo groupdel p1c2_2024_gAlumno 
+  606  sudo groupdel p1c2_2024_gProfesores 
+  607  cat /etc/group
+  608  cd repogit/UTNFRA_SO_1P2C_2024_CASTILLO/RTA_SCRIPT_Examen_20241011/
+  609  vim Punto_C.sh 
+  610  cd
+  611  ./repogit/UTNFRA_SO_1P2C_2024_CASTILLO/RTA_SCRIPT_Examen_20241011/Punto_C.sh repogit/UTNFRA_SO_1P2C_2024_CASTILLO/RTA_ARCHIVOS_Examen_20241011/Listado_PuntoC vagrant
+  612  cd repogit/UTNFRA_SO_1P2C_2024_CASTILLO/RTA_SCRIPT_Examen_20241011/
+  613  vim Punto_C.sh 
+  614  cd
+  615  ./repogit/UTNFRA_SO_1P2C_2024_CASTILLO/RTA_SCRIPT_Examen_20241011/Punto_C.sh repogit/UTNFRA_SO_1P2C_2024_CASTILLO/RTA_ARCHIVOS_Examen_20241011/Listado_PuntoC vagrant
+  616  cat /etc/group
+  617  id p1c2_2024_A1
+  618  ls -l /Examenes-UTN/
+  619  ls -l /Examenes-UTN/alumno_1/
+  620  id p1c2_2024_A1
+  621  cat /etc/passwd
+  622  getent group
+  623  id p1c2_2024_P1
+  624  id p1c2_2024_gProfesores
+  625  id p1c2_2024_gAlumnos
+  626  id p1c2_2024_gAlumno
+  627  cat /etc/passwd
+  628  cat /etc/group
+  629  less /etc/passwd
+  630  cat /etc/group
+  631  cat /etc/passwd
+  632  ls -l /Examenes-UTN/alumno_1
+  633  ls -l /Examenes-UTN/
+  634  groups p1c2_2024_A1
+  635  groups p1c2_2024_A2
+  636  groups p1c2_2024_A3
+  637  groups p1c2_2024_P1
+  638  ls -l /Examenes-UTN/alumno_1
+  639  ls -l /Examenes-UTN/alumno_1/parcial_1/
+  640  cat /etc/group
+  641  cat /etc/passwd
+  642  cd
+  643  ll
+  644  ls -l
+  645  tree Estructura_Asimetrica/
+  646  ll /Examenes-UTN/
+  647  ll /Examenes-UTN/profesores/
+  648  ls -ld /Examenes-UTN/alumno_1 /Examenes-UTN/alumno_2 /Examenes-UTN/alumno_3 /Examenes-UTN/profesores
+  649  sudo mkdir -p /Examenes-UTN/alumno_1 /Examenes-UTN/alumno_2 /Examenes-UTN/alumno_3 /Examenes-UTN/profesores
+  650  ls -ld /Examenes-UTN/alumno_1 /Examenes-UTN/alumno_2 /Examenes-UTN/alumno_3 /Examenes-UTN/profesores
+  651  git status
+  652  cd UTNFRA_SO_1P2C_2024_CASTILLO/
+  653  git status
+  654  git add RTA_SCRIPT_Examen_20241011/Punto_C.sh
+  655  git commit -m "ADD: primera parte del Punto C completa"
+  656  git add Listado?PuntoC
+  657  git add Listado_PuntoC
+  658  l;
+  659  ll
+  660  cd RTA_ARCHIVOS_Examen_20241011/
+  661  ll
+  662  git status
+  663  git add Listado_PuntoC 
+  664  git commit -m "ADD: Listado para Punto C"
+  665  git push
+  666  cd ..
+  667  history > historial_01 
